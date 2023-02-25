@@ -1,6 +1,6 @@
-# my_faq
+# flutter_chatgpt_api_test
 
-FAQ Flutter Project
+Flutter Chat GPT API test Project
 
 ## Getting Started
 
